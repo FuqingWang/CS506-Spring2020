@@ -3,7 +3,6 @@ def draw_lake(size=4):
     for i in range(size):
         print("----", end="")
     print("\\")
-
     for i in range(size):
         print("|", end="")
         for j in range(size):
