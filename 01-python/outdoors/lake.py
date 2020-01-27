@@ -1,3 +1,5 @@
-def draw_lake():
-    print("lake not found")
+def draw_lake(size=1):
+    print("/-----\\")
+    print("|~ ~ ~|")
+    print("\-----/")
     return
